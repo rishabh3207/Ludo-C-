@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510509250 source:e:\my ludo project\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<ctime>
+	<mmsystem.h>
+
+1509789061 e:\my ludo project\board.h
+	<graphics.h>
+

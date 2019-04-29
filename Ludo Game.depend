@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510511189 source:e:\ludo game\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<ctime>
+	<mmsystem.h>
+
