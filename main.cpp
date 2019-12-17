@@ -286,7 +286,6 @@ void reset_positions(int m ,int x)
     pl[0].pos[0].x=200;
     pl[0].pos[0].y=100;
     nb[0]=0;b[0]=0;
-
     }
     else if(m==0 && x==1)
     {
